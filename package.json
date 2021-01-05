@@ -13,7 +13,7 @@
   "dependencies": {
     "@appbaseio/reactivesearch-vue": "^1.0.0-beta.3",
     "@mdi/font": "^3.0.39",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "liquor-tree": "^0.2.45",
     "scrollmonitor": "^1.2.4",
     "vue": "^2.5.2",
